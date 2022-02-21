@@ -1,0 +1,14 @@
+C:\Users\Sentinel\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Sentinel\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Sentinel\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Sentinel\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Sentinel\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sentinel\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Sentinel\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\University Assignments 2021\Parallel assignments\Task01_VisualStudioCode\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\University Assignments 2021\Parallel assignments\Task01_VisualStudioCode\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\University Assignments 2021\Parallel assignments\Task01_VisualStudioCode\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\University Assignments 2021\Parallel assignments\Task01_VisualStudioCode\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\University Assignments 2021\Parallel assignments\Task01_VisualStudioCode\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\University Assignments 2021\Parallel assignments\Task01_VisualStudioCode\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\University Assignments 2021\Parallel assignments\Task01_VisualStudioCode\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

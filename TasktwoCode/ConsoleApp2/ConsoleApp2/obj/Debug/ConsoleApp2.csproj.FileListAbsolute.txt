@@ -1,0 +1,14 @@
+C:\Users\Sentinel\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Sentinel\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Sentinel\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Sentinel\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Sentinel\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Sentinel\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Sentinel\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+F:\University Assignments 2021\Parallel assignments\TasktwoCode\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\University Assignments 2021\Parallel assignments\TasktwoCode\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\University Assignments 2021\Parallel assignments\TasktwoCode\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\University Assignments 2021\Parallel assignments\TasktwoCode\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+F:\University Assignments 2021\Parallel assignments\TasktwoCode\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\University Assignments 2021\Parallel assignments\TasktwoCode\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\University Assignments 2021\Parallel assignments\TasktwoCode\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
